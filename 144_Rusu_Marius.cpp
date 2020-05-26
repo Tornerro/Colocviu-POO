@@ -1,6 +1,6 @@
 /* Rusu Marius Grupa 144
 Compilator GNU GCC - CodeBlocks
-Miriam Costan */
+Laborant [redacted] */
 
 
 #include <iostream>
